@@ -1,4 +1,4 @@
-# Recycled-IC-Detection
+# Recycled Integrated Circuits Detection
 
 This paper delves into the critical realm of electronics and semiconductor technology, focusing on the detection of recycled integrated circuits. The increasing prevalence of counterfeit and repurposed electronic components in the market poses significant threats to both consumer safety and the integrity of various industries, including aerospace, automotive, and electronics manufacturing.
 
